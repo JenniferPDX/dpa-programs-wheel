@@ -1,0 +1,2562 @@
+[
+  {
+    "colour": "#203426",
+    "name": "Exec MPA",
+    "children": [
+      {
+        "colour": "#667A66",
+        "name": "Exec-MPA Core",
+        "children": [
+          {
+            "colour": "#ff9999",
+            "name": "PA 513",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1",
+                "size": 1
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1",
+                "size": "1"
+              },
+              {
+                "colour": "#203426",
+                "name": "Ten Trk: 2",
+                "size": "2"
+              }
+            ]
+          },
+          {
+            "colour": "#ff9999",
+            "name": "PA 518",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 2",
+                "size": 2
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1",
+                "size": "1"
+              }
+            ]
+          },
+          {
+            "colour": "#660000",
+            "name": "PA 533",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1",
+                "size": 1
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 5",
+                "size": "5"
+              }
+            ]
+          },
+          {
+            "colour": "#ff9999",
+            "name": "PA 534",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 2",
+                "size": 2
+              }
+            ]
+          },
+          {
+            "colour": "#ff9999",
+            "name": "PA 540",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 2",
+                "size": 2
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 3",
+                "size": "3"
+              },
+              {
+                "colour": "#203426",
+                "name": "Ten Trk: 1",
+                "size": "1"
+              }
+            ]
+          },
+          {
+            "name": "PA 545",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1"
+              }
+            ],
+            "size": "16004"
+          },
+          {
+            "name": "PA 552",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 2"
+              }
+            ],
+            "size": "18904"
+          },
+          {
+            "colour": "#ff9999",
+            "name": "PA 583",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1"
+              }
+            ],
+            "size": "10404"
+          },
+          {
+            "name": "PA 590",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 2",
+                "size": 2
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1",
+                "size": "1"
+              }
+            ],
+            "size": "12404"
+          }
+        ]
+      },
+      {
+        "name": "Additional",
+        "children": [
+          {
+            "colour": "#ff4c4c",
+            "name": "PA 510",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 12",
+                "size": "12"
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 5",
+                "size": "5"
+              },
+              {
+                "colour": "#203426",
+                "name": "Ten Trk: 2",
+                "size": "2"
+              }
+            ]
+          },
+          {
+            "colour": "#ff4c4c",
+            "name": "PA 517",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1",
+                "size": 1
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1",
+                "size": "1"
+              }
+            ]
+          },
+          {
+            "colour": "#ff9999",
+            "name": "PA 539",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1",
+                "size": 1
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1",
+                "size": "1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Capstone",
+        "children": [
+          {
+            "colour": "#ff4c4c",
+            "name": "PA 510",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 12",
+                "size": "12"
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 5",
+                "size": "5"
+              },
+              {
+                "colour": "#203426",
+                "name": "Ten Trk: 2",
+                "size": "2"
+              }
+            ]
+          },
+          {
+            "colour": "#ff9999",
+            "name": "PA 512",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1",
+                "size": 1
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 2",
+                "size": "2"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "colour": "#203426",
+    "name": "Civic-Leadership",
+    "children": [
+      {
+        "colour": "#667A66",
+        "name": "Core",
+        "children": [
+          {
+            "name": "PA 311",
+            "size": "6500",
+        "children": [
+          {
+            "colour": "#C0CCC0",
+            "name": "Non Ten: 1",
+            "size": 1
+          },
+          {
+            "colour": "#ffffff",
+            "name": "NA: 3",
+            "size": "3"
+          },
+          {
+            "colour": "#203426",
+            "name": "Ten Trk: 1",
+            "size": "1"
+          }
+        ]
+          },
+          {
+            "name": "PA 312",
+            "size": "6500",
+        "children": [
+          {
+            "colour": "#203426",
+            "name": "Ten Trk: 1",
+            "size": "1"
+          }
+        ]
+          },
+          {
+            "name": "PA 415",
+            "size": "4010",
+        "children": [
+          {
+            "colour": "#203426",
+            "name": "Ten Trk: 1",
+            "size": 1
+          }
+        ]
+          }
+        ]
+      },
+      {
+        "colour": "#A6B8A6",
+        "name": "Electives",
+        "children": [
+          {
+            "name": "PA 313",
+            "size": "6500",
+        "children": [
+          {
+            "colour": "#C0CCC0",
+            "name": "Non Ten: 1",
+            "size": "1"
+          }
+        ]
+
+          },
+          {
+            "name": "PA 412",
+            "size": "6500",
+        "children": [
+          {
+            "colour": "#C0CCC0",
+            "name": "Non Ten: 2",
+            "size": 2
+          }
+        ]
+          },
+          {
+            "name": "PA 413",
+            "size": "6050",
+        "children": [
+          {
+            "colour": "#C0CCC0",
+            "name": "Non Ten: 1",
+            "size": 1
+          },
+          {
+            "colour": "#ffffff",
+            "name": "NA: 2",
+            "size": 2
+          }
+        ]
+          },
+          {
+            "name": "PA 414",
+            "size": "6500",
+        "children": [
+          {
+            "colour": "#C0CCC0",
+            "name": "Non Ten: 2",
+            "size": 2
+          },
+          {
+            "colour": "#ffffff",
+            "name": "NA: 2",
+            "size": 2
+          }
+        ]
+          },
+          {
+            "name": "PA 417",
+            "size": "4001",
+        "children": [
+          {
+            "colour": "#C0CCC0",
+            "name": "Non Ten: 2",
+            "size": 2
+          }
+        ]
+          }
+        ]
+      },
+      {
+        "colour": "#A6B8A6",
+        "name": "Other-Electives",
+        "children": [
+          {
+            "name": "PA 314",
+            "size": "4650",
+            "children": [
+              {
+                "colour": "#ffffff",
+                "name": "NA: 1",
+                "size": "1"
+              }
+            ]
+          },
+          {
+            "name": "PA 315",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1",
+                "size": "1"
+              }
+            ]
+          },
+          {
+            "name": "PA 399",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1",
+                "size": 1
+              },
+              {
+                "colour": "#ffffff",
+                "name": "NA: 1",
+                "size": "1"
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1",
+                "size": "1"
+              }
+            ]
+          },
+          {
+            "name": "PA 402",
+            "children": [
+              {
+                "colour": "#203426",
+                "name": "Ten Trk: 1",
+                "size": "1"
+              }
+            ]
+          },
+          {
+            "colour": "#ff9999",
+            "name": "PA 405",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 2",
+                "size": 2
+              },
+              {
+                "colour": "#203426",
+                "name": "Ten Trk: 1",
+                "size": "1"
+              }
+            ]
+          },
+          {
+            "name": "PA 409",
+            "children": [
+              {
+                "colour": "#203426",
+                "name": "Ten Trk: 1",
+                "size": 1
+              },
+              {
+                "colour": "#ffffff",
+                "name": "NA: 1",
+                "size": "1"
+              }
+            ]
+          },
+          {
+            "name": "PA 410",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 3",
+                "size": 3
+              }
+            ]
+          },
+          {
+            "name": "PA 411",
+            "children": [
+              {
+                "colour": "#203426",
+                "name": "Ten Trk: 1",
+                "size": 1
+              }
+            ]
+          },
+          {
+            "name": "PA 420",
+            "size": "4401",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1",
+                "size": 1
+              }
+            ]
+          },
+          {
+            "name": "PA 425",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 3",
+                "size": 3
+              }
+            ]
+          },
+          {
+            "name": "PA 430",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1",
+                "size": 1
+              }
+            ]
+          },
+          {
+            "name": "PA 432",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1",
+                "size": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "colour": "#203426",
+    "name": "MPA:HA",
+    "children": [
+      {
+        "colour": "#667A66",
+        "name": "Core",
+        "children": [
+          {
+            "colour": "#990000",
+            "name": "PA 511",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 3",
+                "size": 3
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 4",
+                "size": "4"
+              }
+            ]
+          },
+          {
+            "colour": "#660000",
+            "name": "PA 533",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1",
+                "size": 1
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 5",
+                "size": "5"
+              }
+            ]
+          },
+          {
+            "colour": "#ff9999",
+            "name": "PA 534",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 2",
+                "size": 2
+              }
+            ]
+          },
+          {
+            "name": "PA 551",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 2",
+                "size": 2
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1",
+                "size": "1"
+              }
+            ],
+            "size": "4003"
+          },
+          {
+            "name": "PA 552",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 2"
+              }
+            ],
+            "size": "4004"
+          },
+          {
+            "colour": "#ff9999",
+            "name": "PA 582",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1",
+                "size": 1
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1",
+                "size": "1"
+              }
+            ]
+          },
+          {
+            "name": "PA 590",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 2",
+                "size": 2
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1",
+                "size": "1"
+              }
+            ],
+            "size": "4004"
+          },
+          {
+            "name": "PAH 541",
+            "children": [
+              {
+                "colour": "#203426",
+                "name": "Ten Trk: 1"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1"
+              }
+            ],
+            "size": "4004"
+          },
+          {
+            "name": "PAH 570",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1"
+              }
+            ],
+            "size": "4004"
+          },
+          {
+            "name": "PAH 571",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1",
+                "size": 1
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 2",
+                "size": "2"
+              },
+              {
+                "colour": "#203426",
+                "name": "Ten Trk: 1",
+                "size": "1"
+              }
+            ],
+            "size": "4004"
+          },
+          {
+            "name": "PAH 573",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1"
+              }
+            ],
+            "size": "4004"
+          },
+          {
+            "name": "PAH 574",
+            "children": [
+              {
+                "colour": "#ffffff",
+                "name": "NA: 1",
+                "size": "1"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1",
+                "size": 1
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 2",
+                "size": "2"
+              },
+              {
+                "colour": "#203426",
+                "name": "Ten Trk: 1",
+                "size": "1"
+              }
+            ]
+          },
+          {
+            "name": "PAH 586",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1",
+                "size": "1"
+              }
+            ],
+            "size": "4004"
+          }
+        ]
+      },
+      {
+        "colour": "#A6B8A6",
+        "name": "Electives",
+        "children": [
+          {
+            "name": "PA 525",
+            "size": "4000",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1",
+                "size": 1
+              }
+            ]
+          },
+          {
+            "name": "PA 545",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1"
+              }
+            ],
+            "size": "4001"
+          },
+          {
+            "name": "PA 549",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1"
+              }
+            ],
+            "size": "4002"
+          },
+          {
+            "name": "PA 554",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1"
+              }
+            ],
+            "size": "4003"
+          },
+          {
+            "name": "PA 556",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1"
+              }
+            ],
+            "size": "4004"
+          },
+          {
+            "colour": "#ff9999",
+            "name": "PA 558",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1",
+                "size": 1
+              }
+            ]
+          },
+          {
+            "name": "PA 562",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1"
+              }
+            ],
+            "size": "4004"
+          },
+          {
+            "colour": "#ff9999",
+            "name": "PA 563",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1"
+              }
+            ],
+            "size": "4004"
+          },
+          {
+            "name": "PAH 544",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1"
+              }
+            ],
+            "size": "4004"
+          },
+          {
+            "name": "PAH 572",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1"
+              }
+            ],
+            "size": "4004"
+          },
+          {
+            "name": "PAH 575",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1"
+              }
+            ],
+            "size": "4004"
+          },
+          {
+            "name": "PAH 576",
+            "children": [
+              {
+                "colour": "#203426",
+                "name": "Ten Trk: 1"
+              }
+            ],
+            "size": "4004"
+          },
+          {
+            "name": "PAH 577",
+            "size": "4004",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1",
+                "size": 1
+              }
+            ]
+          },
+          {
+            "name": "PAH 578",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1"
+              }
+            ],
+            "size": "4004"
+          },
+          {
+            "name": "PAH 579",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 2"
+              }
+            ],
+            "size": "4004"
+          },
+          {
+            "name": "PAH 587",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1"
+              }
+            ],
+            "size": "4004"
+          },
+          {
+            "name": "PAH 588",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1"
+              },
+              {
+                "colour": "#203426",
+                "name": "Ten Trk: 1"
+              }
+            ],
+            "size": "4004"
+          }
+        ]
+      },
+      {
+        "name": "Field Exp",
+        "children": [
+          {
+            "name": "PA 509",
+            "size": "650",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1",
+                "size": "1"
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1",
+                "size": "1"
+              },
+              {
+                "colour": "#203426",
+                "name": "Ten Trk: 1",
+                "size": "1"
+              }
+            ]
+          },
+          {
+            "colour": "#ff9999",
+            "name": "PA 512",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1",
+                "size": 1
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 2",
+                "size": "2"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "colour": "#203426",
+    "name": "MPA",
+    "children": [
+      {
+        "colour": "#667A66",
+        "name": "MPA-General",
+        "children": [
+          {
+            "colour": "#667A66",
+            "name": "MPA Core",
+            "children": [
+              {
+                "colour": "#990000",
+                "name": "PA 511",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 3",
+                    "size": 3
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 4",
+                    "size": "4"
+                  }
+                ]
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 513",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": 1
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": "1"
+                  },
+                  {
+                    "colour": "#203426",
+                    "name": "Ten Trk: 2",
+                    "size": "2"
+                  }
+                ]
+              },
+              {
+                "colour": "#660000",
+                "name": "PA 533",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": 1
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 5",
+                    "size": "5"
+                  }
+                ]
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 534",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 2",
+                    "size": 2
+                  }
+                ]
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 540",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 2",
+                    "size": 2
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 3",
+                    "size": "3"
+                  },
+                  {
+                    "colour": "#203426",
+                    "name": "Ten Trk: 1",
+                    "size": "1"
+                  }
+                ]
+              },
+              {
+                "colour": "#667A66",
+                "name": "PA 551",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 2",
+                    "size": 2
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": "1"
+                  }
+                ]
+              },
+              {
+                "colour": "#667A66",
+                "name": "PA 552",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  },
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 2"
+                  }
+                ]
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 582",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": 1
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": "1"
+                  }
+                ]
+              },
+              {
+                "colour": "#667A66",
+                "name": "PA 585",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#667A66",
+                "name": "PA 590",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 2",
+                    "size": 2
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": "1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "MPA-Skill Dev",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 525",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 536",
+               "children": [
+                  {
+                    "colour": "#203426",
+                    "name": "Ten Trk: 1",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 545",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  },
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 549",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 550",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 554",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 555",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 2",
+                    "size": 2
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": "1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 556",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 557",
+                "size": "900"
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 558",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 562",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Field Exp",
+            "children": [
+              {
+                "name": "PA 509",
+                "size": "650",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": "1"
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": "1"
+                  },
+                  {
+                    "colour": "#203426",
+                    "name": "Ten Trk: 1",
+                    "size": "1"
+                  }
+                ]
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 512",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": 1
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 2",
+                    "size": "2"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "Global-Lead/Mgt",
+        "children": [
+          {
+            "colour": "#667A66",
+            "name": "Core",
+            "children": [
+              {
+                "colour": "#ff9999",
+                "name": "PA 514",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "colour": "#667A66",
+                "name": "PA 542",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "colour": "#A6B8A6",
+            "name": "Electives",
+            "children": [
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 523",
+                "children": [
+                  {
+                    "colour": "#203426",
+                    "name": "Ten Trk: 1",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 529",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 549",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 550",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 558",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 565",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "Skill Dev",
+            "children": [
+              {
+                "colour": "#ff4c4c",
+                "name": "PA 517",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": 1
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": "1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 525",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 536",
+                "children": [
+                  {
+                    "colour": "#203426",
+                    "name": "Ten Trk: 1",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 543",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 545",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  },
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 553",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 554",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 555",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 2",
+                    "size": 2
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": "1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "Human Res-Mgt",
+        "children": [
+          {
+            "colour": "#667A66",
+            "name": "Core",
+            "children": [
+              {
+                "colour": "#ff4c4c",
+                "name": "PA 510",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 12",
+                    "size": "12"
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 5",
+                    "size": "5"
+                  },
+                  {
+                    "colour": "#203426",
+                    "name": "Ten Trk: 2",
+                    "size": "2"
+                  }
+                ]
+              },
+              {
+                "colour": "#667A66",
+                "name": "PA 593",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "colour": "#A6B8A6",
+            "name": "Electives",
+            "children": [
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 546",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 562",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 591",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 594",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "Skill Dev",
+            "children": [
+              {
+                "colour": "#ff4c4c",
+                "name": "PA 517",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": 1
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": "1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 525",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 529",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 536",
+                "children": [
+                  {
+                    "colour": "#203426",
+                    "name": "Ten Trk: 1",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 545",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  },
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 548",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 549",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 550",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 555",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 2",
+                    "size": 2
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": "1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 556",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 598",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "Nat Res-Policy/Admin",
+        "children": [
+          {
+            "colour": "#667A66",
+            "name": "Core",
+            "children": [
+              {
+                "colour": "#ff9999",
+                "name": "PA 565",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": 1
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "colour": "#A6B8A6",
+            "name": "Electives",
+            "children": [
+              {
+                "colour": "#ff9999",
+                "name": "PA 539",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": 1
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": "1"
+                  }
+                ]
+              },
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 542",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 553",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 564",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": "1"
+                  }
+                ]
+              },
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 566",
+                "children": [
+                  {
+                    "colour": "#ffffff",
+                    "name": "NA: 1",
+                    "size": "1"
+                  },
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 567",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ]
+              },
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 568",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 569",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "Skill Dev",
+            "children": [
+              {
+                "colour": "#ff9999",
+                "name": "PA 514",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 519",
+                "size": "445",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": "1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 525",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 536",
+                "children": [
+                  {
+                    "colour": "#203426",
+                    "name": "Ten Trk: 1",
+                    "size": 1
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 543",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 548",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 549",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 550",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 554",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 555",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 2",
+                    "size": 2
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": "1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 556",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 557",
+                "size": "445"
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 558",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "Nonprofit-Mgt",
+        "children": [
+          {
+            "colour": "#667A66",
+            "name": "Core",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "PA 520",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": 1
+                  },
+                  {
+                    "colour": "#203426",
+                    "name": "Ten Trk: 1",
+                    "size": "1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 521",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "colour": "#667A66",
+                "name": "PA 522",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 2",
+                    "size": 2
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#667A66",
+                "name": "PA 524",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ],
+                "size": "445"
+              }
+            ]
+          },
+          {
+            "colour": "#A6B8A6",
+            "name": "Electives",
+            "children": [
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 523",
+                "children": [
+                  {
+                    "colour": "#203426",
+                    "name": "Ten Trk: 1",
+                    "size": 1
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 527",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 528",
+                "children": [
+                  {
+                    "colour": "#203426",
+                    "name": "Ten Trk: 1",
+                    "size": "1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 529",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 538",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 541",
+                "children": [
+                  {
+                    "colour": "#203426",
+                    "name": "Ten Trk: 1",
+                    "size": "1"
+                  }
+                ],
+                "size": "445"
+              }
+            ]
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "Skill Dev",
+            "children": [
+              {
+                "colour": "#ff9999",
+                "name": "PA 514",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 525",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 526",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 536",
+                "children": [
+                  {
+                    "colour": "#203426",
+                    "name": "Ten Trk: 1",
+                    "size": 1
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 543",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 545",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 549",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 555",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 2",
+                    "size": 2
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": "1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 556",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 581",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 592",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 598",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ],
+                "size": "445"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "Local Govt",
+        "children": [
+          {
+            "colour": "#667A66",
+            "name": "Core",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "PA 560",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 561",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ],
+                "size": "445"
+              }
+            ]
+          },
+          {
+            "colour": "#A6B8A6",
+            "name": "Electives",
+            "children": [
+              {
+                "colour": "#ff4c4c",
+                "name": "PA 517",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": 1
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": "1"
+                  }
+                ]
+              },
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 519",
+                "size": "445",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": "1"
+                  }
+                ]
+              },
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 542",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 543",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 545",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 546",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 563",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 564",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": "1"
+                  }
+                ]
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 583",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#A6B8A6",
+                "name": "PA 593",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ],
+                "size": "445"
+              }
+            ]
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "Skill Dev",
+            "children": [
+              {
+                "colour": "#ff9999",
+                "name": "PA 514",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": 1
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 536",
+                "children": [
+                  {
+                    "colour": "#203426",
+                    "name": "Ten Trk: 1",
+                    "size": 1
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 549",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 550",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 555",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 2",
+                    "size": 2
+                  },
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1",
+                    "size": "1"
+                  }
+                ]
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 556",
+                "children": [
+                  {
+                    "colour": "#667A66",
+                    "name": "Ten: 1"
+                  }
+                ],
+                "size": "445"
+              },
+              {
+                "colour": "#C0CCC0",
+                "name": "PA 557",
+                "size": "445"
+              },
+              {
+                "colour": "#ff9999",
+                "name": "PA 558",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": 1
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
