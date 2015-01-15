@@ -32,18 +32,44 @@ h3 {
 }
 
 p {
-  text-align: center;
+  text-align: left;
+  -webkit-margin-after: 0em;
+  -webkit-margin-before: 0em;
+  margin-bottom: 0em;
+  margin-top: 0em;
 }
 
 p#intro {
   text-align: center;
   margin: 1em 0;
 }
+
+#annotation {
+    border: 3px solid rgb(102, 122, 102);
+    margin-top: 0px;
+    padding-left: 6px;
+    padding-top: 0px;
+    border-radius: 4px;
+    position: absolute;
+    min-height: 1.2em;
+    width: 360px;
+    top: 140px;
+    left: 1000px;
+    background-color: rgb(102, 122, 102);
+    color: white;
+}
+
 </style>
 
 <h3>Dept of Public Admin</h3>
 <h1>PROGRAM & SPECIALIZATIONS</h1>
 <p>Includes courses taught/scheduled from Winter 2012 through Winter 2015<p>
+
+<div id="annotation">
+	<p>
+		Hover over a course number to see its title.
+	</p>
+</div>
 
 <div id="vis"><img src="full.png"></div>
 <script src="http://d3js.org/d3.v3.min.js"></script>
@@ -58,6 +84,7 @@ var width = 840,
 
 var fileJSONdata = "wheel-program.json";
 var div = d3.select("#vis");
+var content = d3.select("#annotation"); // To display course titles on mouse hover
 
 div.select("img").remove();
 
@@ -86,7 +113,10 @@ d3.json(fileJSONdata, function(error, json) {
       .attr("d", arc)
       .attr("fill-rule", "evenodd")
       .style("fill", colour)
-      .on("click", click);
+      .on("click", click)
+      .on("mouseover", mouseover)
+      .on("mouseout", mouseout);
+
 
   var text = vis.selectAll("text").data(nodes);
   var textEnter = text.enter().append("text")
@@ -109,7 +139,10 @@ d3.json(fileJSONdata, function(error, json) {
 //			rotate = rotate === 90 ? 0 : rotate; // Transitions first to 90 then to where I want it at 0.
         return "rotate(" + rotate + ")translate(" + (y(d.y) + padding) + ")rotate(" + (angle > 90 ? -180 : 0) + ")";
       })
-      .on("click", click);
+      .on("click", click)
+      .on("mouseover", mouseover)
+      .on("mouseout", mouseout);
+
 	  
   // depth is a static attribute. A node at depth 2 is always at depth 2.    
   textEnter.append("tspan")
@@ -158,6 +191,22 @@ d3.json(fileJSONdata, function(error, json) {
           d3.select(this).style("visibility", isParentOf(d, e) ? null : "hidden");
         });
   }
+  
+    //mouseover function which will send the values to the legend
+    function mouseover(d)
+    {
+        content.append("p")
+        .attr("id", "annotate")
+        .text(d.title ? d.name + ": " + d.title : ' ')
+    }
+
+    //mouseout function which removes the values and replaces them with a blank space
+    function mouseout(d)
+    {
+        content.html(' ');
+    }
+  
+  
 });
 
 function isParentOf(p, c) {
