@@ -64,7 +64,7 @@
             ]
           },
           {
-            "colour": "#ff9999",
+            "colour": "#667A66",
             "name": "PA 534",
             "title": "ADMINISTRATIVE LAW / POLICY",
             "children": [
@@ -76,7 +76,7 @@
             ]
           },
           {
-            "colour": "#ff9999",
+            "colour": "#667A66",
             "name": "PA 540",
             "title": "ADMINISTRATIVE THEORY-BEHAV",
             "children": [
@@ -98,6 +98,7 @@
             ]
           },
           {
+            "colour": "#667A66",
             "name": "PA 545",
             "title": "ORGANIZATIONAL DEVELOPMENT",
             "children": [
@@ -113,6 +114,7 @@
             "size": "16004"
           },
           {
+            "colour": "#667A66",
             "name": "PA 552",
             "title": "ANALYTIC METH PA II",
             "children": [
@@ -144,6 +146,7 @@
             "size": "10404"
           },
           {
+            "colour": "#667A66",
             "name": "PA 590",
             "title": "PUBLIC HR MANAGEMENT",
             "children": [
@@ -166,7 +169,7 @@
         "name": "Additional",
         "children": [
           {
-            "colour": "#ff4c4c",
+            "colour": "#ff9999",
             "name": "PA 510",
             "children": [
               {
@@ -226,7 +229,7 @@
         "name": "Capstone",
         "children": [
           {
-            "colour": "#ff4c4c",
+            "colour": "#ff9999",
             "name": "PA 510",
             "children": [
               {
@@ -276,6 +279,7 @@
         "name": "Core",
         "children": [
           {
+            "colour": "#667A66",
             "name": "PA 311",
             "size": "6500",
             "title": "INTRO CIVIC ENGAGEMENT",
@@ -298,6 +302,7 @@
             ]
           },
           {
+            "colour": "#667A66",
             "name": "PA 312",
             "size": "6500",
             "title": "FOUNDATIONS OF COMM LEADERSHIP",
@@ -310,6 +315,7 @@
             ]
           },
           {
+            "colour": "#667A66",
             "name": "PA 415",
             "size": "4010",
             "title": "CIVIC LDRSHP INTEGRATIVE SEM",
@@ -328,6 +334,7 @@
         "name": "Electives",
         "children": [
           {
+            "colour": "#A6B8A6",
             "name": "PA 313",
             "size": "6500",
             "title": "FUNDAMENTALS OF PUBLIC SERVICE",
@@ -341,6 +348,7 @@
 
           },
           {
+            "colour": "#A6B8A6",
             "name": "PA 412",
             "size": "6500",
             "title": "ROLE OF GOVERNING INSTITUTIONS",
@@ -353,6 +361,7 @@
             ]
           },
           {
+            "colour": "#A6B8A6",
             "name": "PA 413",
             "size": "6050",
             "title": "CIVIC ENG: ROLE OF INDIVIDUALS",
@@ -370,6 +379,7 @@
             ]
           },
           {
+            "colour": "#A6B8A6",
             "name": "PA 414",
             "size": "6500",
             "title": "ROLE OF SOCIAL INSTUTIONS",
@@ -387,6 +397,7 @@
             ]
           },
           {
+            "colour": "#A6B8A6",
             "name": "PA 417",
             "size": "4001",
             "title": "ETHICAL LEADERSHIP IN PS",
@@ -405,6 +416,7 @@
         "name": "Other-Electives",
         "children": [
           {
+            "colour": "#A6B8A6",
             "name": "PA 314",
             "size": "4650",
             "title": "STUDENTS AS LEADERS",
@@ -417,6 +429,7 @@
             ]
           },
           {
+            "colour": "#A6B8A6",
             "name": "PA 315",
             "title": "MANAGING PEOPLE FOR CHANGE",
             "children": [
@@ -428,6 +441,7 @@
             ]
           },
           {
+            "colour": "#A6B8A6",
             "name": "PA 399",
             "children": [
               {
@@ -448,6 +462,7 @@
             ]
           },
           {
+            "colour": "#A6B8A6",
             "name": "PA 402",
             "title": "IS: CIVIC LEADERSHIP",
             "children": [
@@ -475,6 +490,7 @@
             ]
           },
           {
+            "colour": "#A6B8A6",
             "name": "PA 409",
             "title": "PRACTICUM",
             "children": [
@@ -491,6 +507,7 @@
             ]
           },
           {
+            "colour": "#A6B8A6",
             "name": "PA 410",
             "title": "PROFESSIONAL IN EMERGENCY MGMT",
             "children": [
@@ -502,6 +519,7 @@
             ]
           },
           {
+            "colour": "#A6B8A6",
             "name": "PA 411",
             "title": "FOUND CITIZENSHIP/COMM LDRS",
             "children": [
@@ -513,6 +531,7 @@
             ]
           },
           {
+            "colour": "#A6B8A6",
             "name": "PA 420",
             "size": "4401",
             "title": "INTRO NONPROFIT MANAGEMENT",
@@ -525,6 +544,7 @@
             ]
           },
           {
+            "colour": "#A6B8A6",
             "name": "PA 425",
             "title": "GRANTWRITING FOR NONPROFITS",
             "children": [
@@ -536,6 +556,7 @@
             ]
           },
           {
+            "colour": "#A6B8A6",
             "name": "PA 430",
             "title": "RECRUITMENT OF VOLUNTEERS",
             "children": [
@@ -547,6 +568,7 @@
             ]
           },
           {
+            "colour": "#A6B8A6",
             "name": "PA 432",
             "title": "LDRSHP/MGMT OF VOLUNTEER PRGMS",
             "children": [
@@ -570,7 +592,7 @@
         "name": "Core",
         "children": [
           {
-            "colour": "#990000",
+            "colour": "#ff4c4c",
             "name": "PA 511",
             "title": "PUBLIC ADMINISTRATION",
             "children": [
@@ -604,7 +626,7 @@
             ]
           },
           {
-            "colour": "#ff9999",
+            "colour": "#667A66",
             "name": "PA 534",
             "title": "ADMINISTRATIVE LAW / POLICY",
             "children": [
@@ -616,6 +638,7 @@
             ]
           },
           {
+            "colour": "#667A66",
             "name": "PA 551",
             "title": "ANALYTIC METH PA I",
             "children": [
@@ -633,6 +656,7 @@
             "size": "4003"
           },
           {
+            "colour": "#667A66",
             "name": "PA 552",
             "title": "ANALYTIC METH PA II",
             "children": [
@@ -665,6 +689,7 @@
             ]
           },
           {
+            "colour": "#667A66",
             "name": "PA 590",
             "title": "PUBLIC HR MANAGEMENT",
             "children": [
@@ -682,6 +707,7 @@
             "size": "4004"
           },
           {
+            "colour": "#667A66",
             "name": "PAH 541",
             "title": "ORG BEHAVIOR HLTH",
             "children": [
@@ -697,6 +723,7 @@
             "size": "4004"
           },
           {
+            "colour": "#667A66",
             "name": "PAH 570",
             "title": "HEALTH ADMINISTRATION",
             "children": [
@@ -708,6 +735,7 @@
             "size": "4004"
           },
           {
+            "colour": "#667A66",
             "name": "PAH 571",
             "title": "HEALTH POLICY",
             "children": [
@@ -730,6 +758,7 @@
             "size": "4004"
           },
           {
+            "colour": "#667A66",
             "name": "PAH 573",
             "title": "VALUES & ETHICS-HEALTH",
             "children": [
@@ -741,6 +770,7 @@
             "size": "4004"
           },
           {
+            "colour": "#667A66",
             "name": "PAH 574",
             "title": "HEALTH SYSTEMS ORG",
             "children": [
@@ -767,6 +797,7 @@
             ]
           },
           {
+            "colour": "#667A66",
             "name": "PAH 586",
             "title": "INTRO-HEALTH ECON",
             "children": [
@@ -785,6 +816,7 @@
         "name": "Electives",
         "children": [
           {
+            "colour": "#A6B8A6",
             "name": "PA 525",
             "size": "4000",
             "title": "GRANTWRITING FOR NONPROFITS",
@@ -797,6 +829,7 @@
             ]
           },
           {
+            "colour": "#A6B8A6",
             "name": "PA 545",
             "title": "ORGANIZATIONAL DEVELOPMENT",
             "children": [
@@ -812,6 +845,7 @@
             "size": "4001"
           },
           {
+            "colour": "#A6B8A6",
             "name": "PA 549",
             "title": "CROSSCULT COMM/PUBL",
             "children": [
@@ -823,6 +857,7 @@
             "size": "4002"
           },
           {
+            "colour": "#A6B8A6",
             "name": "PA 554",
             "title": "POLICY ANALYSIS RES",
             "children": [
@@ -834,6 +869,7 @@
             "size": "4003"
           },
           {
+            "colour": "#A6B8A6",
             "name": "PA 556",
             "title": "PUBLIC CONTRACT MANAGEMENT",
             "children": [
@@ -857,6 +893,7 @@
             ]
           },
           {
+            "colour": "#A6B8A6",
             "name": "PA 562",
             "title": "MANAGING EMPL PERF PUBLC SECTR",
             "children": [
@@ -868,7 +905,7 @@
             "size": "4004"
           },
           {
-            "colour": "#ff9999",
+            "colour": "#A6B8A6",
             "name": "PA 563",
             "title": "CITIZENS & ADMIN",
             "children": [
@@ -880,6 +917,7 @@
             "size": "4004"
           },
           {
+            "colour": "#A6B8A6",
             "name": "PAH 544",
             "title": "LDRSHP & GOVERNANCE HLTH SVCS",
             "children": [
@@ -891,6 +929,7 @@
             "size": "4004"
           },
           {
+            "colour": "#A6B8A6",
             "name": "PAH 572",
             "title": "HEALTH POLITICS",
             "children": [
@@ -902,6 +941,7 @@
             "size": "4004"
           },
           {
+            "colour": "#A6B8A6",
             "name": "PAH 575",
             "title": "ADVANCED HEALTH POLICY",
             "children": [
@@ -913,6 +953,7 @@
             "size": "4004"
           },
           {
+            "colour": "#A6B8A6",
             "name": "PAH 576",
             "title": "STRATGC MGMT HEALTH CARE ORGS",
             "children": [
@@ -924,6 +965,7 @@
             "size": "4004"
           },
           {
+            "colour": "#A6B8A6",
             "name": "PAH 577",
             "size": "4004",
             "title": "HLTH CARE LAW & REG",
@@ -936,6 +978,7 @@
             ]
           },
           {
+            "colour": "#A6B8A6",
             "name": "PAH 578",
             "title": "CONT IMPRV-HLTH CARE",
             "children": [
@@ -947,6 +990,7 @@
             "size": "4004"
           },
           {
+            "colour": "#A6B8A6",
             "name": "PAH 579",
             "title": "HEALTH INFO TECH & SYST MGMT",
             "children": [
@@ -958,6 +1002,7 @@
             "size": "4004"
           },
           {
+            "colour": "#A6B8A6",
             "name": "PAH 587",
             "title": "FIN MGMT-HEALTH SVCS",
             "children": [
@@ -969,6 +1014,7 @@
             "size": "4004"
           },
           {
+            "colour": "#A6B8A6",
             "name": "PAH 588",
             "title": "PROG EVAL/MGMT HLTH",
             "children": [
@@ -1048,7 +1094,7 @@
             "name": "MPA Core",
             "children": [
               {
-                "colour": "#990000",
+                "colour": "#ff4c4c",
                 "name": "PA 511",
                 "title": "PUBLIC ADMINISTRATN",
                 "children": [
@@ -1104,7 +1150,7 @@
                 ]
               },
               {
-                "colour": "#ff9999",
+                "colour": "#667A66",
                 "name": "PA 534",
                 "title": "ADMINISTRATIVE LAW / POLICY",
                 "children": [
@@ -1116,7 +1162,7 @@
                 ]
               },
               {
-                "colour": "#ff9999",
+                "colour": "#667A66",
                 "name": "PA 540",
                 "title": "ADMINISTRATIVE THEORY-BEHAV",
                 "children": [
@@ -1446,7 +1492,7 @@
                 ]
               },
               {
-                "colour": "#ff9999",
+                "colour": "#A6B8A6",
                 "name": "PA 529",
                 "title": "OAXACA FIELD STUDY",
                 "children": [
@@ -1627,7 +1673,7 @@
             "name": "Core",
             "children": [
               {
-                "colour": "#ff4c4c",
+                "colour": "#ff9999",
                 "name": "PA 510",
                 "children": [
                   {
@@ -1743,7 +1789,7 @@
                 ]
               },
               {
-                "colour": "#ff9999",
+                "colour": "#A6B8A6",
                 "name": "PA 529",
                 "title": "OAXACA FIELD STUDY",
                 "children": [
@@ -2260,7 +2306,7 @@
                 "size": "445"
               },
               {
-                "colour": "#ff9999",
+                "colour": "#A6B8A6",
                 "name": "PA 529",
                 "title": "OAXACA FIELD STUDY",
                 "children": [
@@ -2481,7 +2527,7 @@
                 "size": "445"
               },
               {
-                "colour": "#ff9999",
+                "colour": "#667A66",
                 "name": "PA 561",
                 "title": "INTERGOVERNMENTAL RELATIONS",
                 "children": [
@@ -2581,7 +2627,7 @@
                 "size": "445"
               },
               {
-                "colour": "#ff9999",
+                "colour": "#A6B8A6",
                 "name": "PA 563",
                 "title": "CITIZENS & ADMIN",
                 "children": [
