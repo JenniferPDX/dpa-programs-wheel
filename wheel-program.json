@@ -104,11 +104,13 @@
             "children": [
               {
                 "colour": "#667A66",
-                "name": "Ten: 1"
+                "name": "Ten: 1",
+                "size": "1"
               },
               {
                 "colour": "#C0CCC0",
-                "name": "Non Ten: 1"
+                "name": "Non Ten: 1",
+                "size": "1"
               }
             ],
             "size": "16004"
@@ -120,11 +122,13 @@
             "children": [
               {
                 "colour": "#667A66",
-                "name": "Ten: 1"
+                "name": "Ten: 1",
+                "size": "1"
               },
               {
                 "colour": "#C0CCC0",
-                "name": "Non Ten: 2"
+                "name": "Non Ten: 2",
+                "size": "2"
               }
             ],
             "size": "18904"
@@ -136,11 +140,13 @@
             "children": [
               {
                 "colour": "#667A66",
-                "name": "Ten: 1"
+                "name": "Ten: 1",
+                "size": "1"
               },
               {
                 "colour": "#C0CCC0",
-                "name": "Non Ten: 1"
+                "name": "Non Ten: 1",
+                "size": "1"
               }
             ],
             "size": "10404"
@@ -160,8 +166,7 @@
                 "name": "Ten: 1",
                 "size": "1"
               }
-            ],
-            "size": "12404"
+            ]
           }
         ]
       },
@@ -345,7 +350,6 @@
                 "size": "1"
               }
             ]
-
           },
           {
             "colour": "#A6B8A6",
@@ -662,11 +666,13 @@
             "children": [
               {
                 "colour": "#667A66",
-                "name": "Ten: 1"
+                "name": "Ten: 1",
+                "size": "1"
               },
               {
                 "colour": "#C0CCC0",
-                "name": "Non Ten: 2"
+                "name": "Non Ten: 2",
+                "size": "2"
               }
             ],
             "size": "4004"
@@ -713,11 +719,13 @@
             "children": [
               {
                 "colour": "#203426",
-                "name": "Ten Trk: 1"
+                "name": "Ten Trk: 1",
+                "size": "1"
               },
               {
                 "colour": "#C0CCC0",
-                "name": "Non Ten: 1"
+                "name": "Non Ten: 1",
+                "size": "1"
               }
             ],
             "size": "4004"
@@ -729,7 +737,8 @@
             "children": [
               {
                 "colour": "#C0CCC0",
-                "name": "Non Ten: 1"
+                "name": "Non Ten: 1",
+                "size": "1"
               }
             ],
             "size": "4004"
@@ -764,7 +773,8 @@
             "children": [
               {
                 "colour": "#C0CCC0",
-                "name": "Non Ten: 1"
+                "name": "Non Ten: 1",
+                "size": "1"
               }
             ],
             "size": "4004"
@@ -835,11 +845,13 @@
             "children": [
               {
                 "colour": "#667A66",
-                "name": "Ten: 1"
+                "name": "Ten: 1",
+                "size": "1"
               },
               {
                 "colour": "#C0CCC0",
-                "name": "Non Ten: 1"
+                "name": "Non Ten: 1",
+                "size": "1"
               }
             ],
             "size": "4001"
@@ -851,7 +863,8 @@
             "children": [
               {
                 "colour": "#667A66",
-                "name": "Ten: 1"
+                "name": "Ten: 1",
+                "size": "1"
               }
             ],
             "size": "4002"
@@ -863,7 +876,8 @@
             "children": [
               {
                 "colour": "#667A66",
-                "name": "Ten: 1"
+                "name": "Ten: 1",
+                "size": "1"
               }
             ],
             "size": "4003"
@@ -875,7 +889,8 @@
             "children": [
               {
                 "colour": "#667A66",
-                "name": "Ten: 1"
+                "name": "Ten: 1",
+                "size": "1"
               }
             ],
             "size": "4004"
@@ -899,7 +914,8 @@
             "children": [
               {
                 "colour": "#667A66",
-                "name": "Ten: 1"
+                "name": "Ten: 1",
+                "size": "1"
               }
             ],
             "size": "4004"
@@ -911,7 +927,8 @@
             "children": [
               {
                 "colour": "#667A66",
-                "name": "Ten: 1"
+                "name": "Ten: 1",
+                "size": "1"
               }
             ],
             "size": "4004"
@@ -923,7 +940,8 @@
             "children": [
               {
                 "colour": "#667A66",
-                "name": "Ten: 1"
+                "name": "Ten: 1",
+                "size": "1"
               }
             ],
             "size": "4004"
@@ -935,7 +953,8 @@
             "children": [
               {
                 "colour": "#667A66",
-                "name": "Ten: 1"
+                "name": "Ten: 1",
+                "size": "1"
               }
             ],
             "size": "4004"
@@ -947,7 +966,8 @@
             "children": [
               {
                 "colour": "#667A66",
-                "name": "Ten: 1"
+                "name": "Ten: 1",
+                "size": "1"
               }
             ],
             "size": "4004"
@@ -959,7 +979,8 @@
             "children": [
               {
                 "colour": "#203426",
-                "name": "Ten Trk: 1"
+                "name": "Ten Trk: 1",
+                "size": "1"
               }
             ],
             "size": "4004"
@@ -996,7 +1017,8 @@
             "children": [
               {
                 "colour": "#C0CCC0",
-                "name": "Non Ten: 2"
+                "name": "Non Ten: 2",
+                "size": "2"
               }
             ],
             "size": "4004"
@@ -1008,7 +1030,8 @@
             "children": [
               {
                 "colour": "#667A66",
-                "name": "Ten: 1"
+                "name": "Ten: 1",
+                "size": "1"
               }
             ],
             "size": "4004"
@@ -1020,15 +1043,18 @@
             "children": [
               {
                 "colour": "#667A66",
-                "name": "Ten: 1"
+                "name": "Ten: 1",
+                "size": "1"
               },
               {
                 "colour": "#C0CCC0",
-                "name": "Non Ten: 1"
+                "name": "Non Ten: 1",
+                "size": "1"
               },
               {
                 "colour": "#203426",
-                "name": "Ten Trk: 1"
+                "name": "Ten Trk: 1",
+                "size": "1"
               }
             ],
             "size": "4004"
@@ -1207,11 +1233,13 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   },
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 2"
+                    "name": "Non Ten: 2",
+                    "size": "1"
                   }
                 ]
               },
@@ -1239,7 +1267,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1273,7 +1302,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1281,7 +1311,7 @@
                 "colour": "#C0CCC0",
                 "name": "PA 536",
                 "title": "STRATEGIC PLANNING",
-               "children": [
+                "children": [
                   {
                     "colour": "#203426",
                     "name": "Ten Trk: 1",
@@ -1296,11 +1326,13 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   },
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1311,7 +1343,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1322,7 +1355,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1333,7 +1367,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1361,7 +1396,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1390,7 +1426,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               }
@@ -1454,7 +1491,7 @@
                 "colour": "#ff9999",
                 "name": "PA 514",
                 "title": "GLOBAL LEADERSHIP & MGMT",
-               "children": [
+                "children": [
                   {
                     "colour": "#C0CCC0",
                     "name": "Non Ten: 1",
@@ -1469,7 +1506,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               }
@@ -1498,7 +1536,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1509,7 +1548,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1520,7 +1560,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1578,7 +1619,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1613,11 +1655,13 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   },
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1628,7 +1672,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1639,7 +1684,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1700,7 +1746,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               }
@@ -1717,7 +1764,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1728,7 +1776,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1739,7 +1788,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1750,7 +1800,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               }
@@ -1784,7 +1835,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1819,11 +1871,13 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   },
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1834,7 +1888,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1845,7 +1900,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1856,7 +1912,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1884,7 +1941,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1895,7 +1953,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ]
               }
@@ -1953,7 +2012,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -1964,7 +2024,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -2004,7 +2065,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
@@ -2027,7 +2089,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               }
@@ -2069,7 +2132,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2106,7 +2170,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2118,7 +2183,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2130,7 +2196,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2142,7 +2209,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2171,7 +2239,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2246,8 +2315,7 @@
                     "name": "Non Ten: 2",
                     "size": 2
                   }
-                ],
-                "size": "445"
+                ]
               },
               {
                 "colour": "#667A66",
@@ -2256,10 +2324,10 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
-                ],
-                "size": "445"
+                ]
               }
             ]
           },
@@ -2277,8 +2345,7 @@
                     "name": "Ten Trk: 1",
                     "size": 1
                   }
-                ],
-                "size": "445"
+                ]
               },
               {
                 "colour": "#A6B8A6",
@@ -2287,7 +2354,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2312,7 +2380,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2324,7 +2393,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2367,7 +2437,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2379,7 +2450,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2416,11 +2488,13 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   },
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2432,7 +2506,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2461,7 +2536,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2473,7 +2549,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2485,7 +2562,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2497,7 +2575,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2521,7 +2600,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2533,7 +2613,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2581,7 +2662,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2605,11 +2687,13 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   },
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2621,7 +2705,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2633,7 +2718,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2657,11 +2743,13 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   },
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2673,7 +2761,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2716,7 +2805,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2728,7 +2818,8 @@
                 "children": [
                   {
                     "colour": "#C0CCC0",
-                    "name": "Non Ten: 1"
+                    "name": "Non Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
@@ -2757,7 +2848,8 @@
                 "children": [
                   {
                     "colour": "#667A66",
-                    "name": "Ten: 1"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ],
                 "size": "445"
