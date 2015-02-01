@@ -18,18 +18,7 @@ p {
 }
 
 #annotation {
-    border: 3px solid rgb(102, 122, 102);
-    margin-top: 0px;
-    padding-left: 6px;
-    padding-top: 0px;
-    border-radius: 4px;
-    position: absolute;
-    min-height: 1.2em;
     width: 340px;
-    top: 140px;
-    right: 20px;
-    background-color: rgb(102, 122, 102);
-    color: white;
 }
 
 </style>
@@ -170,7 +159,7 @@ d3.json(fileJSONdata, function(error, json) {
     //mouseover function which will send the values to the legend
     function mouseover(d)
     {
-        content.append("p")
+        content.append("p2")
         .attr("id", "annotate")
         .text(d.title ? d.name + ": " + d.title : ' ')
     }
