@@ -2626,6 +2626,19 @@
             "name": "Electives",
             "children": [
               {
+                "colour": "#A6B8A6",
+                "name": "PA 515",
+                "size": "445",
+                "title": "PUBLIC WORKS ADMIN",
+                "children": [
+                  {
+                    "colour": "#C0CCC0",
+                    "name": "Non Ten: 1",
+                    "size": "1"
+                  }
+                ]
+              },              
+              {
                 "colour": "#ff4c4c",
                 "name": "PA 517",
                 "title": "LDRSHP DEV FOR PUB SECTOR",
