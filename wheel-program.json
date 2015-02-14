@@ -176,6 +176,7 @@
           {
             "colour": "#ff9999",
             "name": "PA 510",
+            "title": "SELECTED TOPICS",
             "children": [
               {
                 "colour": "#C0CCC0",
@@ -191,6 +192,23 @@
                 "colour": "#203426",
                 "name": "Ten Trk: 2",
                 "size": "2"
+              }
+            ]
+          },
+          {
+            "colour": "#ff9999",
+            "name": "PA 510",
+            "title": "INTERNATIONAL FIELD EXPERIENCE",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 1",
+                "size": "1"
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1",
+                "size": "1"
               }
             ]
           },
@@ -234,23 +252,18 @@
         "name": "Capstone",
         "children": [
           {
-            "colour": "#ff9999",
             "name": "PA 510",
+            "title": "ADVANCED CASE ANALYSIS",
             "children": [
               {
                 "colour": "#C0CCC0",
-                "name": "Non Ten: 12",
-                "size": "12"
+                "name": "Non Ten: 1",
+                "size": "1"
               },
               {
                 "colour": "#667A66",
-                "name": "Ten: 5",
-                "size": "5"
-              },
-              {
-                "colour": "#203426",
-                "name": "Ten Trk: 2",
-                "size": "2"
+                "name": "Ten: 1",
+                "size": "1"
               }
             ]
           },
@@ -1719,23 +1732,14 @@
             "name": "Core",
             "children": [
               {
-                "colour": "#ff9999",
+                "colour": "#667A66",
                 "name": "PA 510",
+                "title": "LABOR RELATIONS IN THE PUBLIC SECTOR",
                 "children": [
                   {
-                    "colour": "#C0CCC0",
-                    "name": "Non Ten: 12",
-                    "size": "12"
-                  },
-                  {
                     "colour": "#667A66",
-                    "name": "Ten: 5",
-                    "size": "5"
-                  },
-                  {
-                    "colour": "#203426",
-                    "name": "Ten Trk: 2",
-                    "size": "2"
+                    "name": "Ten: 1",
+                    "size": "1"
                   }
                 ]
               },
