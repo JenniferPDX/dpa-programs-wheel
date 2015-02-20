@@ -1,0 +1,43 @@
+[
+  {
+    "colour": "#203426",
+    "name": "Exec MPA",
+    "children": [
+      {
+        "colour": "#667A66",
+        "name": "Exec-MPA Core",
+        "children": [
+          {
+            "colour": "#667A66",
+            "name": "PA 534",
+            "title": "ADMINISTRATIVE LAW / POLICY",
+            "children": [
+              {
+                "colour": "#667A66",
+                "name": "Ten: 2",
+                "size": 2
+              }
+            ]
+          },
+          {
+            "colour": "#667A66",
+            "name": "PA 590",
+            "title": "PUBLIC HR MANAGEMENT",
+            "children": [
+              {
+                "colour": "#C0CCC0",
+                "name": "Non Ten: 2",
+                "size": 2
+              },
+              {
+                "colour": "#667A66",
+                "name": "Ten: 1",
+                "size": "1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
