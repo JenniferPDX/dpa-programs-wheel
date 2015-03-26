@@ -1832,14 +1832,6 @@
         "children": [
           {
             "colour": "#667A66",
-            "name": "PAP 614",
-            "title": "CONTEMPORARY GOVERNANCE",
-            "children": [
-              { "colour": "#ffffff", "name": "NA: 1", "size": "1" }
-            ]
-          },
-          {
-            "colour": "#667A66",
             "name": "PAP 616",
             "title": "POLICY PROCESS",
             "children": [
@@ -1886,22 +1878,6 @@
           },
           {
             "colour": "#A6B8A6",
-            "name": "PAP 620",
-            "title": "AMERICAN POLITICAL INSTITUTIONS",
-            "children": [
-              { "colour": "#ffffff", "name": "NA: 2", "size": "2" }
-            ]
-          },
-          {
-            "colour": "#A6B8A6",
-            "name": "PAP 630",
-            "title": "INTERNATIONAL RELATIONS",
-            "children": [
-              { "colour": "#ffffff", "name": "NA: 2", "size": "2" }
-            ]
-          },
-          {
-            "colour": "#A6B8A6",
             "name": "PAP 654",
             "title": "POLICY ANALYSIS RESEARCH",
             "children": [
@@ -1909,20 +1885,11 @@
             ]
           },
           {
-            "colour": "#A6B8A6",
-            "name": "PAP 656",
-            "title": "ADVANCED POLITICAL ECONOMY",
-            "children": [
-              { "colour": "#ffffff", "name": "NA: 2", "size": "2" }
-            ]
-          },
-          {
             "colour": "#ff9999",
             "name": "PAP 694",
             "title": "SOCIAL PRACTICES & ECOSYSTEMS",
             "children": [
-              { "colour": "#667A66", "name": "Ten: 1", "size": "1" },
-              { "colour": "#ffffff", "name": "NA: 1", "size": "1" }
+              { "colour": "#667A66", "name": "Ten: 1", "size": "1" }
             ]
           }
         ]
