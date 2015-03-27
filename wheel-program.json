@@ -1,4 +1,6 @@
-[
+{
+      "name": "Specializations",
+      "children": [
   {
     "colour": "#203426",
     "name": "Exec MPA",
@@ -1824,7 +1826,7 @@
   },
   {
     "colour": "#203426",
-    "name": "PAP",
+    "name": "PAP/Doctoral",
     "children": [
       {
         "colour": "#667A66",
@@ -1897,3 +1899,4 @@
     ]
   }
 ]
+}
