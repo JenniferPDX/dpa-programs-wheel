@@ -187,6 +187,14 @@
           },
           {
             "colour": "#667A66",
+            "name": "PA 315",
+            "title": "Managing People for Change",
+            "children": [
+              { "colour": "#667A66", "name": "Ten: 1", "size": "1" }
+            ]
+          },
+          {
+            "colour": "#667A66",
             "name": "PA 415",
             "title": "CIVIC LDRSHP INTEGRATIVE SEM",
             "children": [
